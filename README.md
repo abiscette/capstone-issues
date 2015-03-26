@@ -37,6 +37,6 @@ If it is easier to include a screen shot than describe the problem in words, tha
 
 Where do I go to start testing?
 -------------------------------
-+ __url__: [http://aw3so.me][http://aw3so.me]
++ __url__: [http://aw3so.me](http://aw3so.me)
 + __username__: firstname.lastname
 + __password__: 123123123
