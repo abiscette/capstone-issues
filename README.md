@@ -1,6 +1,6 @@
 This repository contains the public issue tracker for the capstone project. The information you need to write effective bug reports.
 
-What should be in a big report?
+What should be in a bug report?
 -------------------------------
 ### Title
 The title of the issue should be precise. 
